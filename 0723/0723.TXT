@@ -1,0 +1,1 @@
+Problem. Complete the blank code about Column-wise L2Norm calculation in the ‘unit_prune_dense_layer’ function. (Hint. Utilize LA module and consider about axis for the L2Norm calculation)
